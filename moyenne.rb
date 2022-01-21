@@ -46,11 +46,6 @@ end
 
 array_of_notes_maker(raw_notes)
 
-# note_converter(note_b, tot_b)
-# note_converter(note_c, tot_c)
-# note_converter(note_d, tot_d)
-# note_converter(note_e, tot_e)
-
 # 1ere étape : en stock les notes et les totaux dans un tableau
 # 2eme étape : on fait une boucle sur le tableau et on rempli un niuveau tanleau avec les notes sur 20
 # 3eme etape : on fait la moyenne de toute les notes sur 20
